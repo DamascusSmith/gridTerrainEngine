@@ -1,0 +1,47 @@
+20:33:54: Creating resource group General
+20:33:54: Creating resource group Internal
+20:33:54: Creating resource group Autodetect
+20:33:54: SceneManagerFactory for type 'DefaultSceneManager' registered.
+20:33:54: Registering ResourceManager for type Material
+20:33:54: Registering ResourceManager for type Mesh
+20:33:54: Registering ResourceManager for type Mesh2
+20:33:54: Registering ResourceManager for type OldSkeleton
+20:33:54: MovableObjectFactory for type 'ParticleSystem' registered.
+20:33:54: ArchiveFactory for archive type FileSystem registered.
+20:33:54: ArchiveFactory for archive type Zip registered.
+20:33:54: ArchiveFactory for archive type EmbeddedZip registered.
+20:33:54: DDS codec registering
+20:33:54: FreeImage version: 3.18.0
+20:33:54: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+20:33:54: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,psb,cut,xbm,xpm,gif,hdr,g3,sgi,rgb,rgba,bw,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti,x3f,webp,jxr,wdp,hdp
+20:33:54: ETC codec registering
+20:33:54: OITD codec registering
+20:33:54: Registering ResourceManager for type HighLevelGpuProgram
+20:33:54: MovableObjectFactory for type 'Decal' registered.
+20:33:54: MovableObjectFactory for type 'InternalCubemapProbe' registered.
+20:33:54: MovableObjectFactory for type 'Entity' registered.
+20:33:54: MovableObjectFactory for type 'Item' registered.
+20:33:54: MovableObjectFactory for type 'Light' registered.
+20:33:54: MovableObjectFactory for type 'ParticleSystem2' registered.
+20:33:54: MovableObjectFactory for type 'Rectangle2Dv2' registered.
+20:33:54: MovableObjectFactory for type 'BillboardSet' registered.
+20:33:54: MovableObjectFactory for type 'ManualObject2' registered.
+20:33:54: MovableObjectFactory for type 'BillboardChain' registered.
+20:33:54: MovableObjectFactory for type 'RibbonTrail' registered.
+20:33:54: MovableObjectFactory for type 'WireAabb' registered.
+20:33:54: OGRE EXCEPTION(6:FileNotFoundException): 'plugins.cfg' file not found! in ConfigFile::load at /home/wikkenden/programming/openSrc/ogre3D-next_3.x_DocBuild/ogre-next/OgreMain/src/OgreConfigFile.cpp (line 81)
+20:33:54: plugins.cfg not found, automatic plugin loading disabled.
+20:33:54: *-*-* OGRE Initialising
+20:33:54: *-*-* Version 4.0.0unstable (F)
+20:33:54: Parsing scripts for resource group Autodetect
+20:33:54: Finished parsing scripts for resource group Autodetect
+20:33:54: Creating resources for group Autodetect
+20:33:54: All done
+20:33:54: Parsing scripts for resource group General
+20:33:54: Finished parsing scripts for resource group General
+20:33:54: Creating resources for group General
+20:33:54: All done
+20:33:54: Parsing scripts for resource group Internal
+20:33:54: Finished parsing scripts for resource group Internal
+20:33:54: Creating resources for group Internal
+20:33:54: All done

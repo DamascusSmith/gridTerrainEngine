@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GridTerrainEngine.dir/main.cpp.o -o GridTerrainEngine  -Wl,-rpath,/home/wikkenden/programming/ogre-next-install/lib /home/wikkenden/programming/ogre-next-install/lib/libOgreNextMain.so /home/wikkenden/programming/ogre-next-install/lib/libOgreNextMain.so 
